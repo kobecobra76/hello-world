@@ -1,2 +1,2 @@
 # hello-world
-traing project
+training project - learn module change control
